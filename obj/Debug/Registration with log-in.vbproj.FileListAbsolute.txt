@@ -1,0 +1,14 @@
+C:\Users\Menor\source\repos\Registration with log-in\bin\Debug\Registration with log-in.exe.config
+C:\Users\Menor\source\repos\Registration with log-in\bin\Debug\Registration with log-in.exe
+C:\Users\Menor\source\repos\Registration with log-in\bin\Debug\Registration with log-in.pdb
+C:\Users\Menor\source\repos\Registration with log-in\bin\Debug\Registration with log-in.xml
+C:\Users\Menor\source\repos\Registration with log-in\obj\Debug\Registration with log-in.vbproj.AssemblyReference.cache
+C:\Users\Menor\source\repos\Registration with log-in\obj\Debug\Registration_with_log_in.Form1.resources
+C:\Users\Menor\source\repos\Registration with log-in\obj\Debug\Registration_with_log_in.Resources.resources
+C:\Users\Menor\source\repos\Registration with log-in\obj\Debug\Registration with log-in.vbproj.GenerateResource.cache
+C:\Users\Menor\source\repos\Registration with log-in\obj\Debug\Registration with log-in.vbproj.CoreCompileInputs.cache
+C:\Users\Menor\source\repos\Registration with log-in\obj\Debug\Registration with log-in.exe
+C:\Users\Menor\source\repos\Registration with log-in\obj\Debug\Registration with log-in.xml
+C:\Users\Menor\source\repos\Registration with log-in\obj\Debug\Registration with log-in.pdb
+C:\Users\Menor\source\repos\Registration with log-in\obj\Debug\Registration_with_log_in.Log_in.resources
+C:\Users\Menor\source\repos\Registration with log-in\obj\Debug\Registration_with_log_in.Form2.resources
